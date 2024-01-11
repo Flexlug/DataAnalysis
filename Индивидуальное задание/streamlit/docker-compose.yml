@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  jupyter-gpu:
+    ports:
+      - 8501:8501
+    build:
+      context: .
+    environment:
+      - API_KEY="YOUR_KEY"

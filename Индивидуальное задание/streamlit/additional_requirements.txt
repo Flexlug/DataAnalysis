@@ -1,0 +1,36 @@
+# jupyter
+# cmake
+# tensorflow[and-cuda]
+# matplotlib
+# numpy
+# nvidia-cublas-cu12
+# nvidia-cuda-cupti-cu12
+# nvidia-cuda-nvrtc-cu12
+# nvidia-cuda-runtime-cu12
+# nvidia-cudnn-cu12
+# nvidia-cufft-cu12
+# nvidia-curand-cu12
+# nvidia-cusolver-cu12
+# nvidia-cusparse-cu12
+# nvidia-nccl-cu12
+# nvidia-nvtx-cu12
+# pandas
+# Pillow
+# protobuf
+# requests
+# scipy
+# seaborn
+# sympy
+# tqdm
+
+geopandas
+statsmodels
+geopy
+shapely
+lxml
+folium
+scikit-learn
+
+stqdm
+streamlit
+streamlit-folium
