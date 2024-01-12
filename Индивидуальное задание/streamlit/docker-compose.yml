@@ -7,4 +7,4 @@ services:
     build:
       context: .
     environment:
-      - API_KEY="YOUR_KEY"
+      - API_KEY=YOUR_KEY
